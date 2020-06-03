@@ -29,6 +29,8 @@ public class homepagetests extends driverinitialization
 					hm.getlogin().click();
 					log.error("succesfully login"); 
 					log.error("yes its login"); 
+					log.error(" its gittest a"); 
+					log.error("its git test b"); 
 	}
 	
 		
