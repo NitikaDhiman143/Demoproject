@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="Academy.E2EProject.Listeners"/>
+  </listeners>
+  <test name="validate the title(failed)" parallel="tests">
+    <classes>
+      <class name="Academy.E2EProject.homepagetests">
+        <methods>
+          <include name="launchbrowser"/>
+          <include name="Closedriver"/>
+        </methods>
+      </class> <!-- Academy.E2EProject.homepagetests -->
+      <class name="Academy.E2EProject.Validiatetext">
+        <methods>
+          <include name="Close"/>
+          <include name="validatethetitleonhomepage"/>
+        </methods>
+      </class> <!-- Academy.E2EProject.Validiatetext -->
+    </classes>
+  </test> <!-- validate the title(failed) -->
+</suite> <!-- Failed suite [Suite] -->

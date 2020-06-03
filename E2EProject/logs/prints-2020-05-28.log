@@ -1,0 +1,7 @@
+15:23:05.429 [TestNG] INFO  Resources.driverinitialization - close browser
+18:25:37.439 [TestNG] ERROR Resources.driverinitialization - succesfully login
+18:25:37.506 [TestNG] ERROR Resources.driverinitialization - succesfully login launch
+18:25:39.331 [TestNG] INFO  Resources.driverinitialization - close browser
+15:43:01.448 [TestNG] ERROR Resources.driverinitialization - succesfully login
+15:43:01.466 [TestNG] ERROR Resources.driverinitialization - succesfully login launch
+15:43:03.643 [TestNG] INFO  Resources.driverinitialization - close browser
