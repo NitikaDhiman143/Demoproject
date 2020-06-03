@@ -28,6 +28,7 @@ public class homepagetests extends driverinitialization
 		homepageobjects hm = new homepageobjects(driver);
 					hm.getlogin().click();
 					log.error("succesfully login"); 
+					log.error("yes its login"); 
 	}
 	
 		
